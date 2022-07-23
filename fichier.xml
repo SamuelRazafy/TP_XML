@@ -1,0 +1,10 @@
+<xml>
+<students>
+    <student>
+        <id>01</id>
+        <firstname>RALAY</firstname>
+        <lastname>Migadra</lastname>
+        <address>IVO Isotry</address>
+    </student>
+</students>
+</xml>

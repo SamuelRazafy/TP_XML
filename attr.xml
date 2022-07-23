@@ -1,0 +1,6 @@
+<?xml-stylesheet type="text/xsl" href="attr.xsl" encoding="UTF-8"?>
+<root>
+    <item id="1" Nom="RAMARO" Prenom="Koto" Adresse="Tana" />
+    <item id="2" Nom="RABE" Prenom="Mananjara" Adresse="Ivato" />
+    <item id="3" Nom="RABE" Prenom="Kijana" Adresse="Isotry" />
+</root>

@@ -1,0 +1,29 @@
+<?xml-stylesheet type="text/xsl" href="TP.xsl" encoding="UTF-8"?>
+<class>
+    
+         <etudiant>
+            <id>01</id>
+            <Nom>RABE</Nom>
+            <Prenom>Razoky</Prenom>
+            <Adresse>IVO Isotry</Adresse>
+         </etudiant>
+         <etudiant>
+            <id>02</id>
+            <Nom>RAKOTO</Nom>
+            <Prenom>Razomaka</Prenom>
+            <Adresse>IVO Isotry</Adresse>
+         </etudiant>
+         <etudiant>
+            <id>03</id>        
+            <Nom>RAPISO</Nom>
+            <Prenom>Rabeza</Prenom>
+            <Adresse>IVO Isotry</Adresse>
+         </etudiant>
+         <etudiant>
+            <id>04</id>
+            <Nom>RAPISIKILO</Nom>
+            <Prenom>Rabezavana</Prenom>
+            <Adresse>IVO Isotry</Adresse>
+         </etudiant>
+    
+</class>

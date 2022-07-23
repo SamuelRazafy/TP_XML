@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Stack.xsl"?>
+<catalog>
+  <cd>
+    <instance>instance1</instance>
+    <swver>swver1</swver>
+    <systemid>systemid1</systemid>
+    <sysmem>sysmem1</sysmem>
+    <systime>systime1</systime>
+    <cutmem>cutmem1</cutmem>
+    <filemem>filemem1</filemem>
+    <calconfig>calconfig1</calconfig>
+
+  </cd>
+  <cd>
+    <instance>instance2</instance>
+    <swver>swver2</swver>
+    <systemid>systemid2</systemid>
+    <sysmem>sysmem2</sysmem>
+    <systime>systime2</systime>
+    <cutmem>cutmem2</cutmem>
+    <filemem>filemem2</filemem>
+    <calconfig>calconfig2</calconfig>
+
+  </cd>
+.
+.
+</catalog>
